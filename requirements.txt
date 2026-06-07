@@ -1,0 +1,8 @@
+# Chess DQN — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+torch>=2.0.0          # Deep learning framework
+numpy>=1.24.0         # Array operations
+python-chess>=1.10.0  # Chess game logic and move generation
+matplotlib>=3.7.0     # Plotting training curves
+tqdm>=4.65.0          # Progress bars
